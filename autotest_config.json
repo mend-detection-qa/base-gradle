@@ -16,6 +16,7 @@
         "_comment_validate_dependency_tree": "Whether to validate the dependency tree. Options: true | false. Default: true",
         "dependency_tree": {
             "check_dependency_tree_detection_status": true,
+            "check_update_request_sca_results": true,
             "_comment_check_dependency_tree_detection_status": "Whether to check if dependency tree was successfully detected. Options: true | false. Default: true",
             "expected_total_dependencies_number": {
                 "gte": 1
